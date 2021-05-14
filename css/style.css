@@ -83,7 +83,7 @@ body {
 }
 
 .main_visual {
-  background-image: url(image/mike.jpg);
+  background-image: url(/mike.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
